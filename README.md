@@ -35,7 +35,7 @@ Course-Management-System/
     └── pom.xml
 ```
 
-*The folder structure above is illustrative; adjust it to match your repository.*
+
 
 ## Getting Started
 
@@ -76,7 +76,6 @@ Open the local URL displayed in your terminal to access the application.
 
 ## Future Improvements
 
-- User authentication and role-based access.
 - Course performance analytics.
 - Enhanced student dashboard.
 - Additional learning management features.
