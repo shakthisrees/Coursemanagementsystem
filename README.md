@@ -81,12 +81,6 @@ Open the local URL displayed in your terminal to access the application.
 - Enhanced student dashboard.
 - Additional learning management features.
 
-## Author
-
-**Shakthi Sree S**
-
-[GitHub Profile](https://github.com/shakthi-sree-s)
-
 ---
 
 ⭐ If you find this project useful, consider giving it a star!
